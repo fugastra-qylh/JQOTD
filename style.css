@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #000807;
+}
+.quote__holder {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	width: 100%;
+}
+.quote__holder h1 {
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-size: 1.5rem;
+	color: #a2a3bb;
+	padding: 20px 0;
+}
+#quote__display {
+	height: auto;
+	color: #fbf9ff;
+	font-family: sans-serif;
+	padding: 0 50px;
+	text-transform: uppercase;
+	font-size: 3rem;
+	margin-bottom: 20px;
+}
+.quote__holder button {
+	padding: 5px 15px;
+	cursor: pointer;
+	background: transparent;
+	color: #a2a3bb;
+	border: 1px solid #a2a3bb;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	z-index: 999;
+}
+
+
