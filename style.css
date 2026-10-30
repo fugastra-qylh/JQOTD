@@ -35,6 +35,7 @@ body {
 	background: transparent;
 	color: #a2a3bb;
 	border: 1px solid #a2a3bb;
+	border-radius: 8px;
 	font-family: sans-serif;
 	text-transform: uppercase;
 	z-index: 999;
