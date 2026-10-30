@@ -1,5 +1,5 @@
 var quotes = [
-  " \"Youth\"".","\"@Fugastra would u get pegged\"","\"Ok who the fuck is playing the boccherini Minuet in the toilet\""
+  "Youth","@Fugastra would u get pegged","Ok who the fuck is playing the boccherini Minuet in the toilet"
 ]
 
 function showQuotes(){
